@@ -17,6 +17,9 @@
   h1 {
     font-size: 60px !important;
   }
+  h2 {
+    font-size: 40px;
+  }
 }
 
 h1,
